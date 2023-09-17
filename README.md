@@ -51,7 +51,7 @@ Die Arduino-Dokumentation ist eine wertvolle Quelle für Informationen zu Arduin
 
 
 ## [Zusätzliche Informationen](#additional-infos)
-Für weitere Informationen und Ressourcen zum HC-SR04-Sensor und verwandten Themen kannst du meine [Präsentation](https://github.com/dein-benutzername/hc-sr04-demo/docs/Präsentation.pdf) oder gleich die [PDF mit Zusatzinfos](test.de) ansehen. Dort sind auch weitere informative Quellen verlinkt.
+Für weitere Informationen und Ressourcen zum HC-SR04-Sensor und verwandten Themen kannst du meine [Präsentation](https://github.com/pascalfranke/hc-sr04-demo/blob/main/documents/ultraschall-sensor-hc-sr04-pascalfranke.pptx) oder gleich die [PDF mit Zusatzinfos](https://github.com/pascalfranke/hc-sr04-demo/blob/main/documents/zusatzinfos_pdf_ultraschall-sensor-hc-sr04-pascalfranke.pdf) ansehen. Dort sind auch weitere informative Quellen verlinkt.
 
 
 ## [Lizenz](#license)
