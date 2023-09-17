@@ -1,5 +1,5 @@
-#include <Arduino.h>
-#include <LiquidCrystal.h>
+#include <Arduino.h> // Arduino-Bibliothek importieren
+#include <LiquidCrystal.h> // LCD-Bibliothek importieren
 
 // Pins
 const int trigPin = 12; // Trigger-Pin (Senden) HC-SR04
