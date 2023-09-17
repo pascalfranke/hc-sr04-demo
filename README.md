@@ -13,7 +13,7 @@ Um dieses Projekt zu verwenden, benötigen Sie folgende Voraussetzungen:
 - Arduino-Entwicklungsumgebung installiert ([Download hier](https://www.arduino.cc/en/software))
 - Zugriff auf die Befehlszeile (CLI)
 
-Ich empfehle statt der Arduino IDE besser VS Code zu verwenden und das Addon [PlattformIO](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) zu installieren. Alle nötigen Tools werden automatisch mit installiert.
+Ich empfehle statt der Arduino IDE besser VS Code zu verwenden und das Addon [PlattformIO](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) zu installieren. Alle nötigen Tools werden automatisch mit installiert. Alternative kannst du einfach den .vscode-Ordner mit in dein Projekt kopieren.
 
 ## Installation
 
