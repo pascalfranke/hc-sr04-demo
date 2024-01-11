@@ -8,7 +8,7 @@ Der HC-SR04 Ultraschallsensor ermöglicht die Messung von Entfernungen durch das
 
 ## Voraussetzungen
 
-Um dieses Projekt zu verwenden, benötigen Sie folgende Voraussetzungen:
+Um dieses Projekt zu verwenden, benötigst du folgende Voraussetzungen:
 
 - Arduino-Entwicklungsumgebung installiert ([Download hier](https://www.arduino.cc/en/software))
 - Zugriff auf die Befehlszeile (CLI)
